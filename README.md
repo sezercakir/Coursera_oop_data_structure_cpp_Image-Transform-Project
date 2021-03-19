@@ -5,8 +5,8 @@
 Project Documentation : 
 [MP1 Image Transform.pdf](https://github.com/sezercakir/Coursera_oop_data_structure_cpp_Image-Transform-Project/files/6173378/MP1.Image.Transform.pdf)
 
-Soruce Files Without Solution : 
-[MP! Image Transform.zip](https://github.com/sezercakir/Coursera_oop_data_structure_cpp_Image-Transform-Project/files/6173389/MP.Image.Transform.zip)
+Source Files Without Solution : 
+[MP1 Image Transform.zip](https://github.com/sezercakir/Coursera_oop_data_structure_cpp_Image-Transform-Project/files/6173389/MP.Image.Transform.zip)
 
 This project is study kind of image processing applications with C++. Main goal of the project to enhance to work with image transformation filters, classes and multifiles coding. 
 
